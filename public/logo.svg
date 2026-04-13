@@ -1,0 +1,19 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+    .logo-text {
+      font-family: 'Dancing Script', cursive, sans-serif;
+      font-size: 100px;
+      fill: #9333ea;
+      font-weight: 700;
+    }
+    .tm {
+      font-family: 'Inter', sans-serif;
+      font-size: 18px;
+      fill: #9333ea;
+      font-weight: 600;
+    }
+  </style>
+  <text x="10" y="90" class="logo-text">aspirella</text>
+  <text x="350" y="40" class="tm">TM</text>
+</svg>
